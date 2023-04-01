@@ -91,7 +91,7 @@ class _MyTabBarState extends State<HomeScreen> with SingleTickerProviderStateMix
           Tab_Friends_Screen(),
           Tab_Home_Screen(),
           NotificationScreen(),
-          Center(child: Text('Tab 3 Content')),
+          Center(child: Text('Tab 5 Content')),
         ],
       ),
     );
